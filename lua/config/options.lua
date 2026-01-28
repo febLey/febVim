@@ -3,3 +3,5 @@
 -- Add any additional options here
 
 vim.g.lazyvim_eslint_auto_format = true
+
+vim.opt.wrap = true -- Enable line wrap
