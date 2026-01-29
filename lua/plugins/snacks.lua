@@ -4,6 +4,7 @@ return {
   opts = {
     picker = {
       sources = {
+        -- tree
         explorer = {
           hidden = true,
           ignored = true,
@@ -11,6 +12,7 @@ return {
             ".git",
           },
         },
+        -- search
         files = {
           hidden = true,
         },
